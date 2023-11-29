@@ -5,3 +5,4 @@ Webline Ads
 * Fix Next UI & Tailwind
 
 * write documentation
+* Pause for unannounced time

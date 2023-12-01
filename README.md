@@ -6,3 +6,4 @@ Webline Ads
 
 * write documentation
 * Pause for unannounced time
+* Week of coding
